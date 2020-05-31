@@ -1,15 +1,18 @@
-### BTsearch ###
+### BTsearch - A multi torrent search across the web ###
 
-Search torrents across the web
+Coded by asrock
+-> git: https://github.com/bitasrock/btsearch
 
-git: https://github.com/bitasrock/btsearch
+--------------------------------------------
 
-PYTHON LIBRARIES: lxml
-                  colorama
-                  prettytable
-                  bs4
+# DEPENDENCIES: #
+lxml
+colorama
+prettytable
+bs4
 
-The main btsearch.py ​​try to install all dependencies by default if they have not found them.
+(The main btsearch.py ​​try to install all dependencies by default if they have not found them.)
+
 
 `USAGE: python btsearch.py "SEARCH" (You should do a search using double quotation marks)`
 
@@ -50,6 +53,4 @@ OUTPUT:
 | 28 | Life of Pi 2012 1080p 10bit HDR BluRay 7 | 4.9 GB   | 0       |
 | 29 | Life of Pi 2012 720p BRRip x264 Multi Hi | 4.3 GB   | 0       |
 +----+------------------------------------------+----------+---------+
-```
-
-The default value of pages can be modified in __strings__.py at PAGE_RANGE (Max value: 6) 
+``` 
