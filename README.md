@@ -13,8 +13,9 @@ The main btsearch.py ​​try to install all dependencies by default if they ha
 
 `USAGE: python btsearch.py "SEARCH" (You should do a search using double quotation marks)`
 
-`EXAMPLE: python btsearch.py "life of pi"
+`EXAMPLE: python btsearch.py "life of pi"`
 
+```
 OUTPUT:
 +----+------------------------------------------+----------+---------+
 | N  | Nome                                     | Tam      | Seeders |
@@ -49,6 +50,6 @@ OUTPUT:
 | 28 | Life of Pi 2012 1080p 10bit HDR BluRay 7 | 4.9 GB   | 0       |
 | 29 | Life of Pi 2012 720p BRRip x264 Multi Hi | 4.3 GB   | 0       |
 +----+------------------------------------------+----------+---------+
-`
+```
 
 The default value of pages can be modified in __strings__.py at PAGE_RANGE (Max value: 6) 
