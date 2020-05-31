@@ -1,4 +1,4 @@
-// Btsearch - A multi torrent search across the web //
+### // Btsearch - A multi torrent search across the web // ###
 
 git: https://github.com/bitasrock/btsearch
 
