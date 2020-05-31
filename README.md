@@ -52,5 +52,12 @@ OUTPUT:
 | 27 | Life of Pi 2012 1080p 10bit HDR BluRay 5 | 2 GB     | 0       |
 | 28 | Life of Pi 2012 1080p 10bit HDR BluRay 7 | 4.9 GB   | 0       |
 | 29 | Life of Pi 2012 720p BRRip x264 Multi Hi | 4.3 GB   | 0       |
-+----+------------------------------------------+----------+---------+
-``` 
++----+------------------------------------------+----------+---------+ 
+Found 60 results in search
+
+[*] Select an number or type "next" to search in thepiratebay.org: 1
+
+Life of Pi (2012) 720p BrRip x264 - YIFY
+
+magnet:?xt=urn:btih:47EFB6761155D90E3A8358D32DBF7AC3CAF0E630&dn=Life+of+Pi+%282012%29+720p+BrRip+x264+-+YIFY&tr=udp%3A%2F%2Ftracker.yify-torrents.com%2Fannounce&tr=udp%3A%2F%2Ftwig.gs%3A6969&tr=udp%3A%2F%2Ftracker.publichd.eu%2Fannounce&tr=http%3A%2F%2Ftracker.publichd.eu%2Fannounce&tr=udp%3A%2F%2Ftracker.police.maori.nz%2Fannounce&tr=udp%3A%2F%2Ftracker.1337x.org%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Ftracker.istole.it%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.yify-torrents.com%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Ffr33dom.h33t.com%3A3310%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce
+
